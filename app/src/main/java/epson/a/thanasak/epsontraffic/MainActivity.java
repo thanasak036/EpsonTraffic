@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //bind widget
 
-        bindWidget();
+        bindWidget();   //Thai is Method
 
     }// นี่คือ method หลัก
 
