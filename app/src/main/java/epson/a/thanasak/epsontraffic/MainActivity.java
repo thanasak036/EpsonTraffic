@@ -11,7 +11,7 @@ public class MainActivity extends AppCompatActivity {
     private ListView trafficListView;
     private Button aboutMEButton;
 
-
+// จาน
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
